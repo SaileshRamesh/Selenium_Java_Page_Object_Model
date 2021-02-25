@@ -1,0 +1,37 @@
+[INFO ] 2021-01-27 14:21:49.563 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 14:28:28.444 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 14:31:21.750 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 14:31:31.010 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 14:42:42.513 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 14:42:55.656 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-27 14:43:19.540 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-27 14:43:20.923 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-27 14:43:25.222 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-27 14:43:26.214 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-27 14:43:27.122 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-27 14:43:34.128 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-27 14:43:38.506 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-27 14:43:46.069 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-27 14:43:46.892 [main] EnterInfoPage - The string successfully entered in Email Johnsmith@gmail.com
+[INFO ] 2021-01-27 14:43:47.844 [main] EnterInfoPage - The string successfully entered in Street 132, My Street, Kingston, New York 12401.
+[INFO ] 2021-01-27 14:43:48.920 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-27 14:43:49.172 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-27 14:43:49.370 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-27 14:44:01.438 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-27 14:44:01.562 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-27 14:44:02.729 [main] EnterInfoPage - Date of Date of Birth entered successfully 12.0
+[INFO ] 2021-01-27 14:44:03.144 [main] EnterInfoPage - Year of Date of Birth entered successfully1999.0
+[INFO ] 2021-01-27 14:44:04.594 [main] EnterInfoPage - Phone entered successfully1.4842634683E10
+[INFO ] 2021-01-27 14:44:06.796 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-27 14:44:08.492 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-27 14:44:28.293 [main] GetQuotePage - The quote printed successfully on console & Excel
+[INFO ] 2021-01-27 14:44:34.201 [main] PageBaseClass - Written the output successfully to Excel File
+[INFO ] 2021-01-27 14:44:37.959 [main] GetQuotePage - The quote successfully asserted
+[INFO ] 2021-01-27 23:21:51.771 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 23:22:09.490 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-27 23:22:56.996 [main] LandingPage - Successfully verified the pageTitle of Landing page Quote online and get an instant 12% off your price
+[INFO ] 2021-01-27 23:25:15.838 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-27 23:25:26.452 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-27 23:25:47.366 [main] LandingPage - Successfully verified the pageTitle of Landing page Only pay for what you need
+[INFO ] 2021-01-27 23:25:48.686 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-27 23:25:52.517 [main] LandingPage - Clicked the Condo Button successfully

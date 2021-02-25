@@ -1,0 +1,108 @@
+[INFO ] 2021-01-26 21:43:02.308 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-26 21:43:26.194 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-26 21:43:48.972 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-26 21:43:49.849 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:43:53.248 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:43:55.667 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:43:55.980 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:44:03.290 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-26 21:44:15.125 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-26 21:44:27.088 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-26 21:44:27.312 [main] EnterInfoPage - The string successfully entered in Email Johnsmith@gmail.com
+[INFO ] 2021-01-26 21:44:27.928 [main] EnterInfoPage - The string successfully entered in Street 132, My Street, Kingston, New York 12401.
+[INFO ] 2021-01-26 21:44:35.786 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-26 21:44:35.929 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-26 21:44:36.098 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-26 21:44:40.832 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-26 21:44:40.847 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-26 21:44:41.236 [main] EnterInfoPage - Date of Date of Birth entered successfully 12.0
+[INFO ] 2021-01-26 21:44:41.813 [main] EnterInfoPage - Year of Date of Birth entered successfully1999.0
+[INFO ] 2021-01-26 21:44:42.647 [main] EnterInfoPage - Phone entered successfully1.4842634683E10
+[INFO ] 2021-01-26 21:44:43.549 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-26 21:44:44.139 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-26 21:45:21.300 [main] GetQuotePage - The quote printed successfully on console & Excel
+[INFO ] 2021-01-26 21:45:40.708 [main] PageBaseClass - Written the output successfully to Excel File
+[INFO ] 2021-01-26 21:45:46.055 [main] GetQuotePage - The quote successfully asserted
+[INFO ] 2021-01-26 21:45:56.622 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-26 21:46:22.825 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-26 21:47:03.883 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-26 21:47:04.859 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:47:08.685 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:47:09.727 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:47:10.284 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:47:10.286 [main] LandingPage - Successfully verified the ErrorMsg of Landing page null
+[INFO ] 2021-01-26 21:47:16.473 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-26 21:47:35.413 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-26 21:47:57.443 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-26 21:47:57.749 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:48:01.110 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:48:01.422 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:48:01.853 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:48:08.855 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-26 21:48:30.612 [main] EnterInfoPage - The string successfully entered in FirstName 123.0
+[INFO ] 2021-01-26 21:48:43.636 [main] EnterInfoPage - The string successfully entered in Lastname 456.0
+[INFO ] 2021-01-26 21:48:44.499 [main] EnterInfoPage - The string successfully entered in Email 123.0
+[INFO ] 2021-01-26 21:48:45.024 [main] EnterInfoPage - The string successfully entered in Street 123.0
+[INFO ] 2021-01-26 21:48:46.053 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-26 21:48:46.847 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-26 21:48:47.317 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-26 21:48:48.273 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-26 21:48:48.421 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-26 21:48:49.329 [main] EnterInfoPage - Date of Date of Birth entered successfully 99.0
+[INFO ] 2021-01-26 21:48:49.645 [main] EnterInfoPage - Year of Date of Birth entered successfully1000.0
+[INFO ] 2021-01-26 21:48:50.533 [main] EnterInfoPage - Phone entered successfully148.0
+[INFO ] 2021-01-26 21:48:50.958 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-26 21:48:51.200 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-26 21:48:51.847 [main] EnterInfoPage - Successfully verified Invalid Email Error MessagePlease enter a valid email address.
+[INFO ] 2021-01-26 21:48:52.484 [main] EnterInfoPage - Successfully verified Invalid Address Error MessageStreet address must contain letters and numbers, and cannot be a P.O. Box.
+[INFO ] 2021-01-26 21:48:52.524 [main] EnterInfoPage - Successfully verified Invalid DOB Error MessagePlease enter a valid date of birth.
+[INFO ] 2021-01-26 21:48:52.554 [main] EnterInfoPage - Successfully verified Invalid Phone Error Message Please enter a valid phone number.
+[INFO ] 2021-01-26 21:56:40.216 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-26 21:57:06.293 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-26 21:57:39.903 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:57:43.893 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:57:44.666 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:57:45.215 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:57:52.285 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-26 21:57:53.844 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-26 21:58:06.214 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-26 21:58:07.969 [main] EnterInfoPage - Succesfully verified the errorMessage for Mail error Message
+[INFO ] 2021-01-26 21:58:07.970 [main] EnterInfoPage - Succesfully verified the Street Adress error Message
+[INFO ] 2021-01-26 21:58:08.108 [main] EnterInfoPage - Succesfully verified the How Long You've lived checkbox error Message
+[INFO ] 2021-01-26 21:58:08.699 [main] EnterInfoPage - Succesfully verified the type of Building error Message
+[INFO ] 2021-01-26 21:58:08.962 [main] EnterInfoPage - Succesfully verified DOB error Message
+[INFO ] 2021-01-26 21:58:09.034 [main] EnterInfoPage - Succesfully verified Phone field error Message
+[INFO ] 2021-01-26 21:58:09.146 [main] EnterInfoPage - Succesfully verified Currently field error Message
+[INFO ] 2021-01-26 21:58:09.286 [main] EnterInfoPage - Succesfully verified Roughly field error Message
+[INFO ] 2021-01-26 21:58:16.545 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-26 21:58:30.813 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-26 21:58:43.548 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-26 21:58:44.192 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:58:48.241 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:58:49.084 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:58:50.195 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:58:50.196 [main] LandingPage - Successfully verified the ErrorMsg of Landing page We can't recognize this ZIP code
+[INFO ] 2021-01-26 21:58:52.927 [main] LandingPage - Refreshed the page successfully
+[INFO ] 2021-01-26 21:58:58.850 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-26 21:59:02.777 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-26 21:59:03.332 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-26 21:59:04.725 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-26 21:59:11.727 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-26 21:59:11.989 [main] EnterInfoPage - The string successfully entered in FirstName 123.0
+[INFO ] 2021-01-26 21:59:26.254 [main] EnterInfoPage - The string successfully entered in Lastname 456.0
+[INFO ] 2021-01-26 21:59:27.169 [main] EnterInfoPage - The string successfully entered in Email 123.0
+[INFO ] 2021-01-26 21:59:27.967 [main] EnterInfoPage - The string successfully entered in Street 123.0
+[INFO ] 2021-01-26 21:59:28.581 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-26 21:59:29.839 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-26 21:59:30.879 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-26 21:59:32.121 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-26 21:59:32.142 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-26 21:59:32.705 [main] EnterInfoPage - Date of Date of Birth entered successfully 99.0
+[INFO ] 2021-01-26 21:59:34.040 [main] EnterInfoPage - Year of Date of Birth entered successfully1000.0
+[INFO ] 2021-01-26 21:59:34.719 [main] EnterInfoPage - Phone entered successfully148.0
+[INFO ] 2021-01-26 21:59:35.438 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-26 21:59:36.017 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-26 21:59:38.307 [main] EnterInfoPage - Successfully verified Invalid Email Error MessagePlease enter a valid email address.
+[INFO ] 2021-01-26 21:59:38.428 [main] EnterInfoPage - Successfully verified Invalid Address Error MessageStreet address must contain letters and numbers, and cannot be a P.O. Box.
+[INFO ] 2021-01-26 21:59:38.703 [main] EnterInfoPage - Successfully verified Invalid DOB Error MessagePlease enter a valid date of birth.
+[INFO ] 2021-01-26 21:59:38.812 [main] EnterInfoPage - Successfully verified Invalid Phone Error Message Please enter a valid phone number.

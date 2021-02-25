@@ -1,0 +1,168 @@
+[INFO ] 2021-01-20 00:53:44.612 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 00:56:52.524 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 00:58:25.728 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 18:38:35.111 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 18:39:27.526 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 18:39:55.680 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 18:39:59.346 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 18:40:00.494 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 18:40:01.093 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 18:40:08.103 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 18:40:35.695 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-20 18:40:35.990 [main] EnterInfoPage - The string successfully entered in Email Johnsmith@gmail.com
+[INFO ] 2021-01-20 18:40:43.488 [main] EnterInfoPage - The string successfully entered in Street 132, My Street, Kingston, New York 12401.
+[INFO ] 2021-01-20 18:40:45.279 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-20 18:40:47.219 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-20 18:40:47.781 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-20 18:40:50.394 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-20 18:40:50.433 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-20 18:40:50.702 [main] EnterInfoPage - Date of Date of Birth entered successfully 12.0
+[INFO ] 2021-01-20 18:40:52.193 [main] EnterInfoPage - Year of Date of Birth entered successfully1999.0
+[INFO ] 2021-01-20 18:40:52.347 [main] EnterInfoPage - Phone entered successfully1.4842634683E10
+[INFO ] 2021-01-20 18:40:52.675 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-20 18:40:52.956 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-20 18:41:10.219 [main] GetQuotePage - The quote printed successfully on console & Excel
+[INFO ] 2021-01-20 18:41:15.717 [main] PageBaseClass - Written the output successfully to Excel File
+[INFO ] 2021-01-20 18:41:21.914 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 18:42:03.771 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 18:42:16.247 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 18:42:20.424 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 18:42:20.761 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 18:42:21.050 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 18:42:28.053 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 18:43:32.088 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 18:44:08.365 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 18:44:38.782 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 18:44:42.014 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 18:44:42.288 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 18:44:42.569 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 18:44:49.571 [main] EnterInfoPage - The string successfully entered in FirstName 123.0
+[INFO ] 2021-01-20 18:44:59.503 [main] EnterInfoPage - The string successfully entered in Lastname 456.0
+[INFO ] 2021-01-20 18:45:00.847 [main] EnterInfoPage - The string successfully entered in Email 123.0
+[INFO ] 2021-01-20 18:45:01.084 [main] EnterInfoPage - The string successfully entered in Street 123.0
+[INFO ] 2021-01-20 18:45:01.883 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-20 18:45:02.599 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-20 18:45:03.080 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-20 18:45:04.481 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-20 18:45:06.017 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-20 18:45:07.385 [main] EnterInfoPage - Date of Date of Birth entered successfully 99.0
+[INFO ] 2021-01-20 18:45:08.866 [main] EnterInfoPage - Year of Date of Birth entered successfully1000.0
+[INFO ] 2021-01-20 18:45:09.483 [main] EnterInfoPage - Phone entered successfully148.0
+[INFO ] 2021-01-20 18:45:09.894 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-20 18:45:10.768 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-20 18:45:11.831 [main] EnterInfoPage - Successfully verified Invalid Email Error MessagePlease enter a valid email address.
+[INFO ] 2021-01-20 18:45:11.895 [main] EnterInfoPage - Successfully verified Invalid Address Error MessageStreet address must contain letters and numbers, and cannot be a P.O. Box.
+[INFO ] 2021-01-20 18:45:11.935 [main] EnterInfoPage - Successfully verified Invalid DOB Error MessagePlease enter a valid date of birth.
+[INFO ] 2021-01-20 18:45:11.970 [main] EnterInfoPage - Successfully verified Invalid Phone Error Message Please enter a valid phone number.
+[INFO ] 2021-01-20 21:49:32.666 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 21:50:22.004 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 21:51:26.432 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 21:52:05.150 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 21:52:32.740 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 21:52:36.284 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 21:52:38.226 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 21:52:46.431 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 21:52:53.755 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 21:53:09.609 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-20 21:53:11.705 [main] EnterInfoPage - Succesfully verified the errorMessage for Mail error Message
+[INFO ] 2021-01-20 21:53:11.705 [main] EnterInfoPage - Succesfully verified the Street Adress error Message
+[INFO ] 2021-01-20 21:53:11.785 [main] EnterInfoPage - Succesfully verified the How Long You've lived checkbox error Message
+[INFO ] 2021-01-20 21:53:11.842 [main] EnterInfoPage - Succesfully verified the type of Building error Message
+[INFO ] 2021-01-20 21:53:12.029 [main] EnterInfoPage - Succesfully verified DOB error Message
+[INFO ] 2021-01-20 21:53:12.243 [main] EnterInfoPage - Succesfully verified Phone field error Message
+[INFO ] 2021-01-20 21:53:12.361 [main] EnterInfoPage - Succesfully verified Currently field error Message
+[INFO ] 2021-01-20 21:53:12.487 [main] EnterInfoPage - Succesfully verified Roughly field error Message
+[INFO ] 2021-01-20 21:53:16.744 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 21:53:58.179 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 21:54:37.783 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 21:54:40.980 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 21:54:41.154 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 21:54:41.403 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 21:54:48.405 [main] EnterInfoPage - The string successfully entered in FirstName 123.0
+[INFO ] 2021-01-20 21:55:15.103 [main] EnterInfoPage - The string successfully entered in Lastname 456.0
+[INFO ] 2021-01-20 21:55:15.536 [main] EnterInfoPage - The string successfully entered in Email 123.0
+[INFO ] 2021-01-20 21:55:16.131 [main] EnterInfoPage - The string successfully entered in Street 123.0
+[INFO ] 2021-01-20 21:55:17.283 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-20 21:55:18.059 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-20 21:55:18.841 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-20 21:55:19.285 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-20 21:55:19.321 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-20 21:55:19.787 [main] EnterInfoPage - Date of Date of Birth entered successfully 99.0
+[INFO ] 2021-01-20 21:55:19.912 [main] EnterInfoPage - Year of Date of Birth entered successfully1000.0
+[INFO ] 2021-01-20 21:55:20.595 [main] EnterInfoPage - Phone entered successfully148.0
+[INFO ] 2021-01-20 21:55:21.194 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-20 21:55:21.571 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-20 21:55:25.526 [main] EnterInfoPage - Successfully verified Invalid Email Error MessagePlease enter a valid email address.
+[INFO ] 2021-01-20 21:55:25.586 [main] EnterInfoPage - Successfully verified Invalid Address Error MessageStreet address must contain letters and numbers, and cannot be a P.O. Box.
+[INFO ] 2021-01-20 21:55:25.620 [main] EnterInfoPage - Successfully verified Invalid DOB Error MessagePlease enter a valid date of birth.
+[INFO ] 2021-01-20 21:55:25.752 [main] EnterInfoPage - Successfully verified Invalid Phone Error Message Please enter a valid phone number.
+[INFO ] 2021-01-20 21:59:08.471 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 22:00:03.454 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 22:00:42.782 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-20 22:00:43.533 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 22:00:47.197 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 22:00:48.633 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 22:00:49.573 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 22:00:57.016 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-20 22:01:29.183 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 22:06:13.765 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 22:06:58.420 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 22:07:27.108 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-20 22:07:27.775 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 22:07:31.256 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 22:07:32.364 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 22:07:33.135 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 22:07:40.143 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-20 22:07:40.329 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 22:08:00.061 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-20 22:08:00.767 [main] EnterInfoPage - The string successfully entered in Email Johnsmith@gmail.com
+[INFO ] 2021-01-20 22:08:03.082 [main] EnterInfoPage - The string successfully entered in Street 132, My Street, Kingston, New York 12401.
+[INFO ] 2021-01-20 22:08:04.604 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-20 22:08:05.181 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-20 22:08:05.976 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-20 22:08:07.589 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-20 22:08:07.862 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-20 22:08:09.851 [main] EnterInfoPage - Date of Date of Birth entered successfully 12.0
+[INFO ] 2021-01-20 22:08:10.210 [main] EnterInfoPage - Year of Date of Birth entered successfully1999.0
+[INFO ] 2021-01-20 22:08:11.221 [main] EnterInfoPage - Phone entered successfully1.4842634683E10
+[INFO ] 2021-01-20 22:08:11.621 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-20 22:08:12.008 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-20 22:08:33.101 [main] GetQuotePage - The quote printed successfully on console & Excel
+[INFO ] 2021-01-20 22:08:39.443 [main] PageBaseClass - Written the output successfully to Excel File
+[INFO ] 2021-01-20 22:14:27.062 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 22:15:05.571 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 22:15:18.079 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-20 22:15:22.220 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 22:15:25.653 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 22:15:26.698 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 22:15:27.209 [main] LandingPage - Clicked the getMyPrice
+[INFO ] 2021-01-20 22:15:34.215 [main] EnterInfoPage - Successfully verified the pageTitle of Landing page Liberty Mutual
+[INFO ] 2021-01-20 22:15:45.461 [main] EnterInfoPage - The string successfully entered in FirstName John
+[INFO ] 2021-01-20 22:15:58.229 [main] EnterInfoPage - The string successfully entered in Lastname Smith
+[INFO ] 2021-01-20 22:15:58.648 [main] EnterInfoPage - The string successfully entered in Email Johnsmith@gmail.com
+[INFO ] 2021-01-20 22:15:59.962 [main] EnterInfoPage - The string successfully entered in Street 132, My Street, Kingston, New York 12401.
+[INFO ] 2021-01-20 22:16:02.136 [main] EnterInfoPage - The string successfully entered in AptNo 132.0
+[INFO ] 2021-01-20 22:16:02.576 [main] EnterInfoPage - The How long you've lived entered successfully
+[INFO ] 2021-01-20 22:16:03.333 [main] EnterInfoPage - The Building type selected successfully Low rise (8 stories or less)
+[DEBUG] 2021-01-20 22:16:04.567 [main] BaseTestClass - Successfully scrolled down
+[INFO ] 2021-01-20 22:16:04.586 [main] EnterInfoPage - Month of Date of Birth entered successfully April
+[INFO ] 2021-01-20 22:16:05.732 [main] EnterInfoPage - Date of Date of Birth entered successfully 12.0
+[INFO ] 2021-01-20 22:16:06.068 [main] EnterInfoPage - Year of Date of Birth entered successfully1999.0
+[INFO ] 2021-01-20 22:16:06.824 [main] EnterInfoPage - Phone entered successfully1.4842634683E10
+[INFO ] 2021-01-20 22:16:08.201 [main] EnterInfoPage - The currently checkbox checked successfully
+[INFO ] 2021-01-20 22:16:08.401 [main] EnterInfoPage - The stuff worth selected successfully $5,000
+[INFO ] 2021-01-20 22:16:28.062 [main] GetQuotePage - The quote printed successfully on console & Excel
+[INFO ] 2021-01-20 22:16:30.262 [main] PageBaseClass - Written the output successfully to Excel File
+[INFO ] 2021-01-20 22:16:30.693 [main] GetQuotePage - The quote successfully asserted
+[INFO ] 2021-01-20 23:49:32.455 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 23:50:35.706 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 23:51:01.937 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-20 23:51:04.581 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 23:51:09.616 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 23:51:14.246 [main] LandingPage - Entered zipCode successfully
+[INFO ] 2021-01-20 23:53:03.061 [main] BaseTestClass - Invoked browser successfullychrome
+[INFO ] 2021-01-20 23:53:48.109 [main] PageBaseClass - Opened the application successfully
+[INFO ] 2021-01-20 23:54:14.448 [main] LandingPage - Successfully verified the pageTitle of Landing page Liberty Mutual | Customize your insurance coverage and get a quote | Liberty Mutual
+[INFO ] 2021-01-20 23:54:15.435 [main] LandingPage - Clicked the property Button successfully
+[INFO ] 2021-01-20 23:54:19.093 [main] LandingPage - Clicked the Renters Button successfully
+[INFO ] 2021-01-20 23:54:21.114 [main] LandingPage - Entered zipCode successfully
