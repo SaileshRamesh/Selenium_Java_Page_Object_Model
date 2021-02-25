@@ -34,6 +34,8 @@ public class GetQuote extends BaseTestClass {
 	SavingsPage savingsPage;
 	GetCondoQuote getCondoQuote;
 	
+	/**********Second push*********/
+	
 	@Test(priority=1, dataProvider="getViewGetQuote")
 	public void ViewGetQuote(Hashtable<String, String> dataTable){
 		
